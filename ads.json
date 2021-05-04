@@ -1,5 +1,11 @@
 [
 	{
+		"appIcon": "https://play-lh.googleusercontent.com/iYiaoi0A9e8EyJnVBivOLUCQvCV_kqcJ3i-OVLNNGMzLDPpnVHko3vfU2IszXAgGlQ=s180-rw",
+		"appName": "Gi Music",
+		"appDescription": "Play Music Doraemon Soundtrack Theme Songs",
+		"url": "https://play.google.com/store/apps/details?id=com.gidev.gimusic"
+	},
+	{
 		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180",
 		"appName": "Gi Dev",
 		"appDescription": "Get more app from Gi Dev",
